@@ -4,7 +4,7 @@
 [![ML Framework](https://img.shields.io/badge/framework-scikit--learn%20%7C%20xgboost-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-An end-to-end machine learning pipeline to predict customer churn using the Telco Customer Churn dataset. It addresses class imbalance using SMOTE and implements multiple classifiers (Decision Tree, Random Forest, and XGBoost) to find the best model. The final model is serialized and deployed within a custom real-time inference loop.
+An end-to-end machine learning pipeline to predict customer churn using the "Telco Customer Churn dataset". It addresses class imbalance using SMOTE and implements multiple classifiers (Decision Tree, Random Forest, and XGBoost) to find the best model. The final model is serialized and deployed within a custom real-time inference loop.
 
 ---
 
