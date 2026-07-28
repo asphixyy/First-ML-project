@@ -1,0 +1,9 @@
+Decision Tree CV Accuracy : 78%
+
+Random Forest CV Accuracy : 84%
+
+XGBoost CV Accuracy : 83%
+
+Selected Model : Random Forest
+
+Test Accuracy : 77.71%
