@@ -1,0 +1,17 @@
+**Installation**
+git clone https://github.com/YOUR_USERNAME/Customer-Churn-Prediction.git
+
+cd Customer-Churn-Prediction
+
+pip install -r requirements.txt
+
+**Run the Project**
+Open Jupyter Notebook
+
+Run all cells
+
+The trained model will be saved automatically as:
+
+customer_churn_model.pkl
+
+encoders.pkl
