@@ -6,6 +6,31 @@
 
 An end-to-end machine learning pipeline to predict customer churn using the "Telco Customer Churn dataset". It addresses class imbalance using SMOTE and implements multiple classifiers (Decision Tree, Random Forest, and XGBoost) to find the best model. The final model is "serialized and deployed" within a custom real-time inference loop.
 
+This project predicts whether a telecom customer is likely to churn using machine learning algorithms. The objective is to help businesses identify customers at risk of leaving so that proactive retention strategies can be implemented.
+
+The project covers the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, class balancing with SMOTE, model training, evaluation, and model serialization for future deployment.
+
+**Technologies Used**
+
+Python
+
+Jupyter Notebook
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Scikit-Learn
+
+XGBoost
+
+imbalanced-learn (SMOTE- Synthetic Minority Over Sampling Technique)
+
+Pickle
 ---
 
 ## Table of Contents
