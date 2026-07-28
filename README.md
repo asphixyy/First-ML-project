@@ -107,6 +107,11 @@ Each model was evaluated using 5-Fold Cross-Validation on the balanced SMOTE tra
 * Decision Tree: 78% mean accuracy (individual fold scores: 0.68, 0.71, 0.82, 0.85, 0.84)
 * Random Forest: 84% mean accuracy (individual fold scores: 0.73, 0.77, 0.90, 0.90, 0.90)
 * XGBoost: 83% mean accuracy (individual fold scores: 0.71, 0.75, 0.90, 0.89, 0.90)
+* Cross Validation Results
+Model	Accuracy
+Decision Tree	78%
+Random Forest	84%
+XGBoost	83%
 
 ### 5. Final Model Selection and Overfitting Notes
 The Random Forest Classifier was selected as the final model because it achieved the highest cross-validation score (84%). 
